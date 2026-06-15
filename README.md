@@ -94,29 +94,6 @@ Key findings include:
 - No significant relationship was found between attendance groups and Math Scores based on the T-Test results.
 - Statistical methods were effectively used to validate the dataset quantitatively.
 
----
-
-## Repository Structure
-
-```text
-Task-5-Statistical-Analysis
-│
-├── student_academic_performance.csv
-├── Task5_Statistical_Analysis.ipynb
-├── README.md
-│
-└── Screenshots
-    ├── dataset_preview.png
-    ├── dataset_info.png
-    ├── missing_values.png
-    ├── descriptive_statistics.png
-    ├── mean_median_mode.png
-    ├── ttest_results.png
-    └── conclusion.png
-```
-
----
-
 ##  Outcome
 
 Successfully applied statistical analysis techniques including descriptive statistics and hypothesis testing to evaluate student performance data and draw data-driven conclusions.
